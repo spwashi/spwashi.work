@@ -7,6 +7,6 @@
       <stop offset="100%" style="stop-color:#ffff00;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="152" height="152" fill="url(#grad1)" rx="15.200000000000001"/>
-  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="53.199999999999996" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">SW</text>
+  <rect width="152" height="152" fill="url(#grad1)" rx="15.2"/>
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="53.2" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">SW</text>
 </svg>
